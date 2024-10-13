@@ -1,0 +1,13 @@
+form {
+    display: flex;
+    flex-wrap: wrap; 
+    gap:0.5rem;
+} 
+
+input {
+    flex: 1 0 10rem;
+} 
+
+button {
+    flex: 1 0 5rem;
+}
